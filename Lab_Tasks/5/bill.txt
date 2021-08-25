@@ -1,0 +1,6 @@
+Name of the iteam: Mushroom Steak.
+Price: 1300
+Tax: 20
+Service Charges: 15
+Your total bill is: 1335
+
