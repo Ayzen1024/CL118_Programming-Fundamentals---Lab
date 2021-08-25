@@ -1,0 +1,14 @@
+Burgers: 
+
+1.Zinger Burger = 230/-
+2.Zinger Cheese Burger = 260/-
+3.Thames Special Burger = 320/-
+4.Beef Burger = 250/-
+5.Tower Burger = 320/-
+6.Fish Burger = 260/-
+7.Fish Cheese Burger = 290/-
+8.Fire Stone Burger = 170/-
+9.Crispy Burger = 170/-
+10.Chicken Burger = 180/-
+11.Tikka Burger = 170/-
+12.Shami Burger = 170/-
